@@ -1,7 +1,7 @@
 # -*- coding: latin-1 -*-
 import os
 
-year = "2017"
+year = "2015"
 full_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 half_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 
@@ -69,9 +69,9 @@ def makeCommands(file_path):
 				buf += item.replace(",",".") + ","
 		buf = buf[:-1] + "\n);"
 		ret.append(buf)
-	for i in ret: print i.replace("''","NULL")
+	for i in ret: print (i.replace("''","NULL")).replace("'-'","NULL")
 
 
 print table
-makeCommands("new")
+makeCommands("mp2015")
 			

@@ -1,0 +1,312 @@
+#CONCOURS ECOLE POLYTECHNIQUE
+ECOLE POLYTECHNIQUE Info.	793	10.0%	24.0%	210	10.0%	16.0%	152	10.0%	15.0%	132	102	11.0%	19.0%	102
+ECOLE POLYTECHNIQUE P&SI	850	18.0%	28.0%	162	15.0%	22.0%	106	16.0%	21.0%	89	80	17.0%	18.0%	80
+#BANQUE ENS
+ENS Ulm MPI	1509	16.0%	31.0%	142	8.0%	28.0%	91	6.0%	19.0%	81	40	7.0%	15.0%	40
+ENS Ulm Info.	214	8.0%	21.0%	37	5.0%	17.0%	23	8.0%	14.0%	14	11	9.0%	0.0%	11
+ENS Cachan MP	1584	17.0%	30.0%	265	10.0%	32.0%	192	11.0%	30.0%	192	17	5.0%	65.0%	17
+ENS Cachan Info.	270	7.0%	24.0%	100	2.0%	23.0%	72	2.0%	23.0%	63	14	7.0%	43.0%	14
+ENS de Lyon MPI	1560	17.0%	30.0%	237	9.0%	32.0%	148	12.0%	24.0%	148	16	18.0%	25.0%	16
+ENS de Lyon Info.	301	8.0%	25.0%	121	3.0%	22.0%	78	5.0%	18.0%	55	23	4.0%	14.0%	23
+ENS Rennes MP	1428	18.0%	31.0%	290	11.0%	33.0%	239	12.0%	33.0%	211	11	0.0%	37.0%	11
+ENS Rennes Info.	270	10.0%	27.0%	112	4.0%	26.0%	100	5.0%	25.0%	65	9	33.0%	56.0%	9
+#CONCOURS COMMUN MINES-PONTS
+MINES ParisTech										208	49	20.0%	11.0%	46
+MINES de NANCY										1210	54	24.0%	30.0%	54
+MINES de SAINT-ETIENNE										1317	40	20.0%	28.0%	40
+PONTS ParisTech										394	60	15.0%	12.0%	57
+SUPAERO (ISAE) Toulouse										796	61	14.0%	17.0%	70
+ENSTA ParisTech										734	53	33.0%	21.0%	53
+TELECOM ParisTech cursus Paris										818	52	11.0%	31.0%	53
+TELECOM ParisTech cursus Sophia										977	18	55.0%	17.0%	20
+TELECOM BRETAGNE cursus Brest-Rennes-Toulouse										1629	61	13.0%	19.0%	50
+TELECOM BRETAGNE cursus Sophia										1003	0	0.0%	0.0%	3
+ENSAE ParisTech										993	47	6.0%	47.0%	45
+Concours Commun Mines Ponts MP	5605	21.0%	23.0%	1812	15.0%	23.0%	1732	15.0%	23.0%		495			491
+#BANQUE CENTRALE-SUPELEC
+CENTRALE PARIS	3370	19.0%	26.0%	766	14.0%	20.0%	746	15.0%	20.0%	385	142	21.0%	20.0%	142
+CENTRALE PARIS - etr.	232	20.0%	35.0%	93	16.0%	42.0%	91	16.0%	42.0%	40	19	21.0%	48.0%	18
+SUPELEC	3101	19.0%	26.0%	984	15.0%	23.0%	960	15.0%	23.0%	874	141	14.0%	32.0%	145
+SUPELEC - etr.	155	22.0%	34.0%				54	24.0%	39.0%	42	8	25.0%	63.0%	2
+CENTRALE LYON	3680	19.0%	26.0%	1103	16.0%	24.0%	1073	16.0%	24.0%	869	121	20.0%	31.0%	127
+Institut d'optique Graduate School (SupOptique)	1781	23.0%	29.0%	1022	22.0%	27.0%	893	22.0%	26.0%	706	41	46.0%	25.0%	40
+Institut d'optique Graduate School (SupOptique) - etr.	62	32.0%	38.0%	36	25.0%	39.0%	33	24.0%	34.0%	33	2	0.0%	50.0%	2
+CENTRALE LILLE	3325	21.0%	27.0%	981	18.0%	30.0%	958	18.0%	30.0%	892	70	11.0%	35.0%	90
+CENTRALE NANTES	3529	22.0%	28.0%	927	19.0%	29.0%	900	19.0%	29.0%	878	102	22.0%	25.0%	135
+CENTRALE MARSEILLE	2927	22.0%	27.0%	1297	20.0%	24.0%	1148	20.0%	24.0%	976	64	21.0%	30.0%	80
+CENTRALE CASABLANCA	613	21.0%	34.0%	95	12.0%	44.0%	89	13.0%	43.0%	86	0	0.0%	0.0%	9
+ECOLE NAVALE Brest	564	17.0%	35.0%	203	13.0%	42.0%	95	11.0%	58.0%	63	25	12.0%	56.0%	25
+ENSEA Cergy	1629	22.0%	28.0%	1256	21.0%	24.0%	458	26.0%	20.0%	453	52	32.0%	16.0%	60
+CENTRALE PARIS - CI										21	15	26.0%	0.0%	15
+SUPELEC - CI										32	4	50.0%	0.0%	5
+CENTRALE LYON - CI										40	8	12.0%	0.0%	8
+CENTRALE LILLE - CI										42	3	0.0%	0.0%	3
+CENTRALE NANTES - CI										46	4	100.0%	25.0%	5
+Institut d'optique Graduate School (SupOptique) - CI										81	0	0.0%	0.0%	3
+CENTRALE MARSEILLE - CI										50	1	0.0%	100.0%	2
+Cycle International Centrale-Supelec	590	30.0%	16.0%	179	22.0%	8.0%	162	23.0%	8.0%		35			41
+#CONCOURS COMMUNS POLYTECHNIQUES
+ENSMM Besancon										3518	38	23.0%	45.0%	42
+Bordeaux INP - ENSEIRB-MATMECA Electronique										2940	33	33.0%	22.0%	35
+Bordeaux INP - ENSEIRB-MATMECA Informatique										2605	59	22.0%	23.0%	52
+Bordeaux INP - ENSEIRB-MATMECA Mathematiques et Mecanique										2236	36	36.0%	20.0%	33
+Bordeaux INP - ENSEIRB-MATMECA Telecom.										2843	19	15.0%	32.0%	28
+ENSICAEN Electronique et Physique Appliquee										3254	13	7.0%	47.0%	20
+ENSICAEN Informatique										3562	24	12.0%	55.0%	30
+EISTI Cergy - Pau										3738	38	10.0%	29.0%	48
+ISIMA Clermont-Ferrand										3716	38	26.0%	29.0%	40
+Grenoble INP - ENSE3										2078	56	23.0%	36.0%	75
+Grenoble INP - ENSIMAG										965	120	19.0%	40.0%	115
+Grenoble INP - Esisar										2740	9	11.0%	23.0%	11
+Grenoble INP - Pagora										3198	4	25.0%	50.0%	11
+Grenoble INP - Phelma (Physique Electronique Telecoms)										1666	51	15.0%	26.0%	60
+Grenoble INP - Phelma (Physique Materiaux Procedes)										1266	31	29.0%	23.0%	38
+CPE LYON Electronique Informatique										3585	10	10.0%	40.0%	12
+ENSEM Nancy Energie										3427	30	13.0%	34.0%	35
+ENSEM Nancy Specialite des systemes numeriques										3325	10	20.0%	50.0%	8
+ENSG Nancy										2916	6	33.0%	34.0%	5
+ENSIC Nancy										3171	2	50.0%	0.0%	5
+Chimie ParisTech										762	2	50.0%	50.0%	3
+SUPMECA Paris										2795	50	20.0%	30.0%	43
+ENSGTI Pau - Energetique										3728	6	33.0%	50.0%	10
+ENSI Poitiers Eau et Genie Civil										3423	8	50.0%	38.0%	6
+ENSI Poitiers Energie										3588	16	50.0%	19.0%	17
+ISAE-ENSMA Poitiers										2081	55	9.0%	30.0%	55
+ENGEES Strasbourg Civil (etudiant)										3632	7	28.0%	58.0%	10
+ENGEES Strasbourg Civil (apprenti)										3305	1	0.0%	0.0%	1
+ENGEES Strasbourg Fonctionnaire										2346	2	50.0%	100.0%	2
+TELECOM PHYSIQUE Strasbourg										2940	17	23.0%	48.0%	31
+SeaTech Toulon										3137	15	46.0%	34.0%	16
+INP-ENSEEIHT Toulouse Electronique et Traitement du Signal										2333	18	44.0%	28.0%	16
+INP-ENSEEIHT Toulouse Genie Electrique et Automatique										1894	16	25.0%	19.0%	15
+INP-ENSEEIHT Toulouse Hydraulique et Mecanique des Fluides										1449	18	27.0%	50.0%	19
+INP-ENSEEIHT Toulouse Informatique et Mathematiques appliquees										1667	59	15.0%	23.0%	58
+INP-ENSEEIHT Toulouse Telecom.reseaux										2073	25	12.0%	20.0%	27
+INP-ENSIACET Toulouse Genie Industriel										2687	14	42.0%	29.0%	17
+INP-ENSIACET Toulouse Genie des Procedes										3031	9	11.0%	12.0%	11
+ENAC Montpellier Civil										1660	0	0.0%	0.0%	2
+ENAC Toulouse Civil										1515	38	13.0%	32.0%	39
+ENAC Toulouse Fonctionnaire										412	7	0.0%	29.0%	7
+ENAC Toulouse Territorial										989	0	0.0%	0.0%	1
+ENSIAME Valenciennes Informatique et Management des systemes										3599	7	0.0%	29.0%	6
+ENSIAME Valenciennes Meca Energ.										3662	18	33.0%	28.0%	20
+ENSIAME Valenciennes Mecatronique										3484	15	20.0%	20.0%	10
+Concours Commun Polytechnique MP	7043	25.0%	25.0%	4698	24.0%	24.0%	3739	24.0%	25.0%		1050			1145
+#BANQUE EPREUVES C.C.P Inter-Filiere
+ECOLE DE L'AIR Pilote	637	17.0%	28.0%	189	13.0%	36.0%	24	12.0%	55.0%	-	9	0.0%	56.0%	44
+ECOLE DE L'AIR Base	585	20.0%	31.0%	165	18.0%	45.0%	22	22.0%	64.0%	-	2	50.0%	0.0%	5
+ECOLE DE L'AIR Meca	548	20.0%	31.0%	150	20.0%	46.0%	25	24.0%	64.0%	-	0	0.0%	0.0%	7
+ENSCI Limoges	619	36.0%	38.0%	430	35.0%	34.0%	52	51.0%	31.0%	-	14	64.0%	29.0%	45
+ENSGSI Nancy	885	36.0%	28.0%	417	37.0%	23.0%	66	43.0%	22.0%	-	9	55.0%	23.0%	35
+ESM Saint-Cyr	585	15.0%	31.0%	172	16.0%	41.0%	62	11.0%	46.0%	-	22	4.0%	46.0%	65
+Grenoble INP - Genie Industriel	1815	29.0%	28.0%	700	27.0%	26.0%	138	30.0%	27.0%	-	17	17.0%	18.0%	80
+#BANQUE EPREUVES C.C.P
+ENSAI Rennes Civil	2053	27.0%	31.0%	1276	26.0%	28.0%	911	27.0%	30.0%	528	48	33.0%	34.0%	48
+ENSAI Rennes Fonctionnaire (Attache INSEE)	1324	25.0%	28.0%	874	26.0%	29.0%	674	26.0%	32.0%	505	21	28.0%	43.0%	21
+ENSISA Mulhouse Informatique et reseaux										118	10	10.0%	20.0%	5
+ENSISA Mulhouse Mecanique										114	3	0.0%	0.0%	5
+ENSISA Mulhouse Automatique et Systemes										121	2	0.0%	50.0%	3
+ENSISA Mulhouse Textile et Fibres										138	1	100.0%	100.0%	2
+ENSISA Mulhouse MP	1168	32.0%	32.0%	738	31.0%	25.0%	138	31.0%	22.0%		16			15
+ENSTIB Epinal	383	36.0%	31.0%	282	34.0%	25.0%	46	39.0%	16.0%	31	6	33.0%	0.0%	6
+EOST Strasbourg	628	29.0%	29.0%	318	31.0%	25.0%	54	29.0%	21.0%	53	12	41.0%	9.0%	11
+#CONCOURS COMMUN TPE
+ENTPE Lyon Civil	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	350	15	46.0%	47.0%	15
+ENTPE Lyon Fonctionnaire	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	298	25	48.0%	36.0%	25
+ENTPE Lyon Etranger				268	26.0%	17.0%	34	35.0%	21.0%	22	1	0.0%	100.0%	1
+EIVP Paris Civil	3210	26.0%	27.0%	1767	25.0%	28.0%	461	37.0%	31.0%	416	22	45.0%	37.0%	23
+EIVP Paris Fonctionnaire	3210	26.0%	27.0%	1499	25.0%	30.0%	416	37.0%	33.0%	213	4	50.0%	0.0%	4
+Mines de Douai Fonct.	3210	26.0%	27.0%	1499	25.0%	30.0%	401	37.0%	33.0%	285	4	25.0%	25.0%	4
+#CONCOURS TELECOM INT
+ENSG-Geomatique Marne la Vallee Civil	3388	25.0%	26.0%	2668	25.0%	24.0%	136	38.0%	15.0%	125	6	33.0%	0.0%	6
+ENSIIE Evry										518	73	24.0%	16.0%	65
+ENSIIE Strasbourg										539	23	26.0%	22.0%	15
+ENSIIE	3112	25.0%	25.0%	2404	24.0%	24.0%	545	26.0%	20.0%		96			80
+ENSSAT Lannion	3388	25.0%	26.0%	2668	25.0%	24.0%	322	32.0%	18.0%	318	31	22.0%	26.0%	25
+Mines St Etienne ISMIN Gardanne	3388	25.0%	26.0%	1796	22.0%	27.0%	181	27.0%	23.0%	167	24	25.0%	17.0%	22
+TELECOM Lille 1	3388	25.0%	26.0%	2239	24.0%	24.0%	185	33.0%	17.0%	136	19	10.0%	27.0%	12
+TELECOM Nancy	3388	25.0%	26.0%	2668	25.0%	24.0%	499	33.0%	15.0%	294	51	21.0%	10.0%	40
+TELECOM PHYSIQUE Strasbourg - Reseaux et Telecom	3388	25.0%	26.0%	2198	24.0%	24.0%	144	31.0%	11.0%	133	3	33.0%	0.0%	12
+TELECOM PHYSIQUE Strasbourg - TIC et Sante	3388	25.0%	26.0%	2195	24.0%	24.0%	91	52.0%	17.0%	58	5	0.0%	0.0%	8
+TELECOM St Etienne	3388	25.0%	26.0%	2668	25.0%	24.0%	392	37.0%	16.0%	233	19	10.0%	16.0%	20
+TELECOM SudParis - cursus Evry										387	98	24.0%	16.0%	86
+TELECOM SudParis - cursus Tunis										484	0	0.0%	0.0%	3
+concours Telecom SudParis MP	3388	25.0%	26.0%	1461	23.0%	24.0%	549	26.0%	24.0%		98			89
+#Concours Commun des Ecoles des Mines
+Ecole des Mines d'Albi	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	954	52	34.0%	43.0%	40
+Ecole des Mines d'Albi Voie du Concours Mines Ponts							679	18.0%	28.0%	672	1	0.0%	100.0%	3
+Ecole des Mines d'Ales	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	944	45	28.0%	36.0%	50
+Ecole des Mines d'Ales Voie du Concours Mines Ponts							679	18.0%	28.0%	674	0	0.0%	0.0%	3
+Ecole des Mines Douai	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	971	47	27.0%	32.0%	50
+Ecole des Mines Douai Voie du Concours Mines Ponts							679	18.0%	28.0%	655	1	0.0%	0.0%	4
+Ecole des Mines Nantes	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	296	51	27.0%	42.0%	55
+Ecole des Mines Nantes Voie du Concours Mines Ponts							679	18.0%	28.0%	558	3	33.0%	0.0%	3
+ENSTA Bretagne Civil	4147	24.0%	26.0%	2361	23.0%	29.0%	1250	27.0%	30.0%	926	41	17.0%	35.0%	42
+ENSTA Bretagne Civil Voie du Concours Mines Ponts							679	18.0%	28.0%	611	0	0.0%	0.0%	3
+ENSTA Bretagne Militaire				2142	22.0%	29.0%	1157	27.0%	30.0%	595	12	25.0%	59.0%	12
+ENSTA Bretagne Militaire							632	18.0%	29.0%	507	0	0.0%	0.0%	0
+#CONCOURS ENSAM
+Arts et Metiers	2035	25.0%	27.0%	235	30.0%	42.0%	184	30.0%	42.0%	146	39	33.0%	44.0%	40
+#CONCOURS ESTP
+ESTP Paris BAT										726	64	35.0%	33.0%	61
+ESTP Paris TOPOGRAPHIE										852	13	7.0%	24.0%	12
+ESTP Paris Genie Mecanique et Electrique (GME)										788	17	17.0%	36.0%	23
+ESTP Paris TP										695	66	19.0%	37.0%	63
+ESTP	1297	27.0%	31.0%	999	27.0%	31.0%	891	28.0%	32.0%		160			159
+#CONCOURS POLYTECH Inter-Filiere
+ENSC Bordeaux										-	8	50.0%	13.0%	18
+ENSIBS Lorient										-	1	0.0%	0.0%	7
+ENSIM Le Mans										-	1	0.0%	0.0%	8
+ESBS Strasbourg										-	0	0.0%	0.0%	3
+ESI Reims										-	0	0.0%	0.0%	13
+ESIAB Brest										-	0	0.0%	0.0%	3
+ESIR Rennes										-	1	0.0%	0.0%	15
+ESIREM Dijon										-	0	0.0%	0.0%	6
+ESIROI Saint Denis de la Reunion										-	1	0.0%	0.0%	7
+ESIX Normandie										-	0	0.0%	0.0%	12
+ESSTIN Nancy										-	4	0.0%	0.0%	27
+ISAT Nevers - departement MIT (Mecanique et Ingenierie des Transports)										-	5	20.0%	60.0%	7
+ISAT Nevers - departement EPEE (Energies et Moteurs)										-	7	0.0%	29.0%	14
+ISBS Creteil										-	0	0.0%	0.0%	10
+ISEL Le Havre										-	1	0.0%	0.0%	8
+ISIFC Besancon										-	2	50.0%	0.0%	5
+ISIS Castres										-	0	0.0%	0.0%	12
+ISTIA Angers										-	1	0.0%	0.0%	5
+ISTY Velizy										-	0	0.0%	0.0%	6
+Polytech Annecy-Chambery - Environnement, Batiment, energie										-	3	33.0%	67.0%	16
+Polytech Annecy-Chambery - Instrumentation, Automatique, Informatique										-	0	0.0%	0.0%	5
+Polytech Annecy-Chambery - Mecanique, Materiaux										-	1	0.0%	100.0%	13
+Polytech Clermont-Ferrand - Genie Biologique										-	0	0.0%	0.0%	5
+Polytech Clermont-Ferrand - Genie Civil										-	4	0.0%	50.0%	16
+Polytech Clermont-Ferrand - Genie Electrique										-	1	0.0%	100.0%	9
+Polytech Clermont-Ferrand - Genie Mathematique et Modelisation										-	9	44.0%	23.0%	14
+Polytech Clermont-Ferrand - Genie Physique										-	0	0.0%	0.0%	11
+Polytech Grenoble - Geotechnique										-	2	50.0%	50.0%	13
+Polytech Grenoble - Materiaux										-	3	0.0%	0.0%	12
+Polytech Grenoble - Prevention des risques										-	3	66.0%	34.0%	10
+Polytech Grenoble - Systemes electroniques et informatiques, Reseaux										-	6	16.0%	17.0%	15
+Polytech Grenoble - Technologies de l'information pour la sante										-	1	0.0%	0.0%	6
+Polytech Lille - Genie biologique et alimentaire										-	0	0.0%	0.0%	4
+Polytech Lille - Genie Informatique et statistique										-	9	55.0%	12.0%	14
+Polytech Lille - Geotechnique, Genie civil										-	4	25.0%	0.0%	10
+Polytech Lille - Informatique, Microelectronique, Automatique										-	5	0.0%	40.0%	9
+Polytech Lille - Ingenierie et commercialisation des systemes de mesure										-	2	50.0%	0.0%	9
+Polytech Lille - Materiaux										-	0	0.0%	0.0%	8
+Polytech Lille - Mecanique										-	3	33.0%	0.0%	9
+Polytech Lyon - Genie Bomedical										-	3	33.0%	34.0%	9
+Polytech Lyon - Informatique										-	3	33.0%	0.0%	5
+Polytech Lyon - Materiaux										-	0	0.0%	0.0%	6
+Polytech Lyon - Mathematiques Appliquees et Modelisation										-	5	20.0%	20.0%	9
+Polytech Lyon - Mecanique										-	1	0.0%	0.0%	6
+Polytech Lyon - Systemes industriels, Robotique										-	3	0.0%	67.0%	5
+Polytech Marseille - Genie Biomedical										-	1	100.0%	0.0%	9
+Polytech Marseille - Genie Civil										-	4	25.0%	0.0%	16
+Polytech Marseille - Genie Industriel et Informatique										-	2	50.0%	50.0%	8
+Polytech Marseille - Informatique										-	4	0.0%	0.0%	13
+Polytech Marseille - Materiaux										-	2	0.0%	0.0%	13
+Polytech Marseille - Mecanique, Energetique										-	3	0.0%	0.0%	22
+Polytech Marseille - Microelectronique,Telecommunications										-	1	0.0%	0.0%	12
+Polytech Montpellier - electronique et Informatique industrielle										-	2	0.0%	0.0%	5
+Polytech Montpellier - Informatique et Gestion										-	2	0.0%	0.0%	5
+Polytech Montpellier - Materiaux										-	2	0.0%	50.0%	6
+Polytech Montpellier - Mecanique et Interactions										-	2	0.0%	100.0%	5
+Polytech Montpellier - Sciences et technologies de l'eau										-	3	33.0%	34.0%	5
+Polytech Montpellier - Sciences et technologies des Industries alimentaires										-	0	0.0%	0.0%	5
+Polytech Nantes - electronique et technologies numeriques										-	2	0.0%	50.0%	5
+Polytech Nantes - energie electrique										-	0	0.0%	0.0%	5
+Polytech Nantes - Genie civil										-	1	0.0%	0.0%	10
+Polytech Nantes - Genie des Procedes et Bioprocedes										-	0	0.0%	0.0%	5
+Polytech Nantes - Informatique										-	3	0.0%	34.0%	10
+Polytech Nantes - Materiaux										-	0	0.0%	0.0%	10
+Polytech Nantes - Thermique, energetique										-	3	33.0%	100.0%	10
+Polytech Nice-Sophia - Batiments										-	1	0.0%	0.0%	9
+Polytech Nice-Sophia - electronique										-	3	0.0%	34.0%	10
+Polytech Nice-Sophia - Genie biologique										-	0	0.0%	0.0%	3
+Polytech Nice-Sophia - Genie de l'eau										-	1	0.0%	0.0%	9
+Polytech Nice-Sophia - Informatique										-	8	37.0%	0.0%	15
+Polytech Nice-Sophia - Mathematiques appliquees, Modelisation										-	5	20.0%	0.0%	14
+Polytech Orleans - ecotechnologie electroniques et optiques										-	2	0.0%	100.0%	7
+Polytech Orleans - Genie civil et geo-environnement										-	4	25.0%	25.0%	21
+Polytech Orleans - Genie industriel										-	0	0.0%	0.0%	3
+Polytech Orleans - Innovation en Conception et Materiaux										-	0	0.0%	0.0%	15
+Polytech Orleans - Technologies pour l'energie, l'Aerospatial et la Motorisation										-	3	33.0%	0.0%	15
+Polytech Paris-Sud - Electronique, Energie, Systemes										-	1	100.0%	100.0%	10
+Polytech Paris-Sud - Informatique										-	1	0.0%	0.0%	8
+Polytech Paris-Sud - Photonique et systemes optroniques										-	1	100.0%	0.0%	6
+Polytech Paris-Sud - Materiaux										-	1	100.0%	100.0%	10
+Polytech Paris-UPMC - Electronique et Informatique										-	2	0.0%	0.0%	13
+Polytech Paris-UPMC - Materiaux										-	0	0.0%	0.0%	12
+Polytech Paris-UPMC - Robotique										-	2	0.0%	50.0%	5
+Polytech Paris-UPMC - Sciences de la Terre										-	2	50.0%	0.0%	11
+Polytech Paris-UPMC Informatique et mathematiques appliquees										-	1	0.0%	0.0%	2
+Polytech Tours - electronique, energie electrique										-	2	0.0%	50.0%	5
+Polytech Tours - Informatique										-	0	0.0%	0.0%	6
+Polytech Tours - Mecanique, Conception de systemes										-	3	0.0%	0.0%	5
+Polytech Tours - amenagement et environnement										-	0	0.0%	0.0%	15
+Sup Galilee Villetaneuse										-	4	50.0%	25.0%	-13
+Concours POLYTECH	2966	27.0%	28.0%	2006	27.0%	24.0%	1632	28.0%	25.0%		187			-855
+#Autres ecoles E3A
+ECE PARIS	979	27.0%	20.0%	853	27.0%	20.0%	328	29.0%	24.0%	328	40	30.0%	28.0%	45
+EFREI Paris	402	24.0%	15.0%	379	24.0%	15.0%	99	27.0%	11.0%	99	18	16.0%	0.0%	35
+EIDD Paris	493	31.0%	30.0%	331	32.0%	28.0%	178	32.0%	25.0%	176	5	20.0%	60.0%	21
+EIGSI Casablanca	82	28.0%	25.0%	51	25.0%	26.0%	9	22.0%	34.0%	0	0	0.0%	0.0%	5
+EIGSI La Rochelle	323	28.0%	19.0%	241	29.0%	20.0%	78	34.0%	26.0%	69	8	37.0%	0.0%	10
+EIL Cote d'Opale - Calais (informatique)										103	4	0.0%	50.0%	10
+EIL Cote d'Opale - Longuenesse (Genie Industriel)										106	8	50.0%	63.0%	15
+EIL Cote d'Opale Longuenesse - Calais	395	32.0%	38.0%	234	33.0%	37.0%	106	34.0%	27.0%		12			25
+EME	152	38.0%	23.0%				140	37.0%	23.0%	140	5	60.0%	20.0%	10
+ENSAIT Roubaix										55	11	81.0%	37.0%	10
+ENSAIT Roubaix - Formation en alternance										63	1	100.0%	100.0%	2
+ENSAIT Roubaix	510	36.0%	32.0%	341	39.0%	32.0%	65	47.0%	28.0%		12			12
+ENSIL Limoges EE	582	33.0%	37.0%	335	32.0%	32.0%	41	51.0%	27.0%	40	5	40.0%	20.0%	8
+ENSIL Limoges ELT	674	27.0%	35.0%	395	26.0%	29.0%	69	26.0%	35.0%	42	10	10.0%	30.0%	10
+ENSIL Limoges Materiaux	586	30.0%	39.0%	335	30.0%	34.0%	46	45.0%	29.0%	44	6	50.0%	50.0%	4
+ENSIL Limoges Mecatronique	668	27.0%	36.0%	394	25.0%	32.0%	81	24.0%	30.0%	28	6	16.0%	17.0%	8
+EPF campus SCEAUX										172	5	20.0%	0.0%	5
+EPF campus TROYES										184	6	50.0%	17.0%	6
+EPF campus MONTPELLIER										131	4	50.0%	0.0%	4
+EPF Sceaux-Troyes-Montpellier	450	32.0%	20.0%	389	33.0%	19.0%	190	36.0%	24.0%		15			15
+ESB Nantes	152	30.0%	26.0%	108	31.0%	29.0%	18	16.0%	39.0%	18	1	0.0%	100.0%	12
+ESIEA Paris - Laval	390	23.0%	17.0%	357	24.0%	16.0%	152	25.0%	16.0%	149	16	18.0%	13.0%	20
+ESIEE Amiens	441	29.0%	24.0%	337	30.0%	22.0%	36	30.0%	23.0%	33	2	50.0%	0.0%	10
+ESIEE Paris	503	27.0%	20.0%	423	28.0%	18.0%	128	27.0%	17.0%	127	14	14.0%	15.0%	30
+ESIGELEC Rouen	570	31.0%	26.0%	505	33.0%	24.0%	181	33.0%	20.0%	181	33	33.0%	19.0%	40
+ESIGETEL Villejuif	288	25.0%	18.0%	266	26.0%	18.0%	65	27.0%	13.0%	65	3	0.0%	67.0%	20
+ESILV Paris-La Defense	636	28.0%	21.0%	553	29.0%	20.0%	238	28.0%	25.0%	221	43	25.0%	24.0%	30
+ESITC Caen	218	31.0%	24.0%	158	29.0%	22.0%	41	31.0%	13.0%	29	5	40.0%	20.0%	14
+ESME SUDRIA Paris	540	30.0%	19.0%	451	32.0%	19.0%	243	34.0%	21.0%	242	3	0.0%	0.0%	20
+ESTACA Laval										180	6	16.0%	67.0%	5
+ESTACA Paris-Saclay										184	18	16.0%	6.0%	13
+ESTACA Paris-Saclay/Laval	529	23.0%	21.0%	425	23.0%	22.0%	278	23.0%	25.0%		24			18
+ESTIA Bidart	305	31.0%	31.0%	233	33.0%	31.0%	31	22.0%	36.0%	31	8	25.0%	50.0%	20
+IFMA Clermont-Ferrand	546	30.0%	36.0%	277	29.0%	33.0%	66	28.0%	35.0%	47	18	22.0%	45.0%	16
+INP - ENI Tarbes	377	32.0%	33.0%				59	33.0%	12.0%	40	0	0.0%	0.0%	2
+INSA centre val de loire STI										77	7	28.0%	43.0%	10
+INSA centre val de loire GSI										62	6	33.0%	17.0%	8
+INSA centre val de loire MRI										87	6	33.0%	17.0%	16
+INSA Centre Val de Loire	615	30.0%	32.0%	335	30.0%	26.0%	87	33.0%	30.0%		19			34
+ISMANS Le Mans	187	29.0%	24.0%	144	31.0%	23.0%	20	20.0%	35.0%	20	0	0.0%	0.0%	8
+ITECH Lyon	162	40.0%	24.0%	105	40.0%	25.0%	3	33.0%	67.0%	0	0	0.0%	0.0%	5
+Mines Douai - ISPA Alencon	387	30.0%	27.0%	250	31.0%	27.0%	22	45.0%	28.0%	18	2	50.0%	50.0%	15
+3IL Limoges	263	22.0%	22.0%	223	22.0%	22.0%	54	18.0%	26.0%	51	3	0.0%	67.0%	12
+#FESIC
+ECAM Lyon				200	36.0%	29.0%	51	31.0%	42.0%	0	0	0.0%	0.0%	3
+ECAM Rennes	963	29.0%	23.0%	865	29.0%	23.0%	54	25.0%	26.0%	51	4	25.0%	25.0%	12
+ECAM Strasbourg Europe	963	29.0%	23.0%	879	29.0%	22.0%	45	28.0%	25.0%	45	4	50.0%	25.0%	12
+ECAM-EPMI Cergy-Pontoise	963	29.0%	23.0%	896	29.0%	23.0%	197	28.0%	32.0%	186	20	30.0%	35.0%	20
+ESAIP Angers - Grasse	963	29.0%	23.0%	873	29.0%	23.0%	246	34.0%	28.0%	246	7	0.0%	29.0%	15
+ESCOM Compiegne	963	29.0%	23.0%	530	29.0%	24.0%	285	34.0%	28.0%	240	0	0.0%	0.0%	1
+ESEO Angers	963	29.0%	23.0%	698	29.0%	23.0%	425	29.0%	25.0%	418	5	40.0%	0.0%	7
+HEI	963	29.0%	23.0%	829	29.0%	23.0%	389	32.0%	27.0%	385	19	21.0%	37.0%	27
+ISEN Brest	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	197	0	0.0%	0.0%	10
+ISEN Lille	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	197	4	0.0%	0.0%	20
+ISEN Toulon	963	29.0%	23.0%	846	29.0%	22.0%	202	29.0%	25.0%	195	9	22.0%	0.0%	10
+ISEP Paris	963	29.0%	23.0%	837	29.0%	23.0%	261	29.0%	22.0%	253	45	22.0%	23.0%	30
+LASALLE BEAUVAIS	963	29.0%	23.0%	751	29.0%	23.0%	42	26.0%	43.0%	0	0	0.0%	0.0%	4
+CENTRALE CASABLANCA				58	24.0%	4.0%	4	50.0%	0.0%	4	2	50.0%	0.0%	8
+CENTRALE CASABLANCA - CI	590	30.0%	16.0%	249	24.0%	10.0%	195	25.0%	9.0%	185	30	30.0%	17.0%	39
+#EPITA
+EPITA										139	13	7.0%	0.0%	20
+IPSA Paris										140	10	0.0%	20.0%	9
+IPSA Toulouse										142	6	50.0%	34.0%	6
+EPITA / IPSA MP	279	17.0%	15.0%	192	18.0%	10.0%	144	20.0%	12.0%		29			35
