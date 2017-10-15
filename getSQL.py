@@ -4,8 +4,7 @@ import sys
 
 year = sys.argv[1]
 filiere = sys.argv[2]
-full_line = "INSERT INTO SCEI_" + filiere.upper() + "_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
-half_line = "INSERT INTO SCEI_" + filiere.upper() + "_" + year + "(Concours,Ecole,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
+command = "INSERT INTO SCEI_" + filiere.upper() + "_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 
 # Table
 table = "CREATE TABLE SCEI_" + filiere.upper() + "_" + year + " (\n"\
@@ -29,16 +28,7 @@ table = "CREATE TABLE SCEI_" + filiere.upper() + "_" + year + " (\n"\
 
 numbers = [str(x) for x in range(10)]
 def getEachElement(string):
-	ret = []
-	buf = string[0]
-	is_number = False
-	for i in range(1,len(string)-1):
-		if string[i] in numbers and (string[i+1] != 'A'):
-			ret.append(buf)
-			is_number = True
-			ret += string[i:].split('\t')
-			break
-		buf += string[i]
+	ret = string.split('\t')
 	# Filter
 	new_ret = ret[:]
 	for j in range(len(ret)): new_ret[j] = ret[j].replace('\t','')
@@ -60,10 +50,11 @@ def makeCommands(file_path):
 	db_list = printResults(file_path)
 	ret = []
 	for school in db_list:
-		if len(school) > 10 : buf = full_line
-		else : buf = half_line
+		buf = command
 		for item in school:
-			if not any(n in item for n in numbers) or any(x in item for x in ["E3A","3IL"]):
+			if any((x == item) for x in ["-",""]):
+				buf += "NULL,"
+			elif any(c.isalpha() for c in item):
 				buf += "'" + (item.replace("'"," ")) + "',"
 			elif ("%" in item):
 				buf += item[:-1].replace(",",".") + ","
@@ -71,9 +62,9 @@ def makeCommands(file_path):
 				buf += item.replace(",",".") + ","
 		buf = buf[:-1] + "\n);"
 		ret.append(buf)
-	for i in ret: print (i.replace("''","NULL")).replace("'-'","NULL")
+	for i in ret: print i
 
 
 print table
-makeCommands("/home/louislycee/Bureau/concours_sql/DB/Concours/mp" + year)
+makeCommands("/home/louislycee/Bureau/concours_sql/DB/Concours/" + filiere + year)
 			

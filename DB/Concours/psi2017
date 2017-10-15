@@ -85,14 +85,14 @@ ENSIAME Valenciennes Méca Energ.										2902	33	24,2%	42,4%	30
 ENSIAME Valenciennes Mécatronique										2554	10	0,0%	10,0%	12
 Concours Commun Polytechnique PSI	5393	24,2%	21,8%	3541	22,4%	22,6%	3081	23,0%	23,0%		826			849
 #BANQUE EPREUVES C.C.P Inter-Filière
-ECOLE DE L'AIR Pilote	769	19,0%	27,4%	277	15,5%	32,1%	48	10,4%	64,6%	74*	24	8,3%	58,3%	44*
-ECOLE DE L'AIR Base	729	20,7%	30,5%	268	17,2%	40,3%	67	11,9%	65,7%	80*	3	0,0%	66,7%	6*
-ECOLE DE L'AIR Méca	729	20,7%	29,8%	268	17,9%	39,6%	82	18,3%	59,8%	132*	10	50,0%	80,0%	13*
-EEIGM Nancy - Groupe INP	548	34,1%	22,4%	297	34,7%	19,5%	22	50,0%	22,7%	32*	1	0,0%	100,0%	10*
-ENSIL-ENSCI Limoges, Matériaux Céramiques	588	31,8%	24,3%	410	30,2%	19,5%	67	41,8%	16,4%	167*	9	44,4%	22,2%	45*
-ENSGSI Nancy - Groupe INP	1020	32,5%	20,5%	513	31,0%	17,0%	130	40,0%	20,0%	180*	22	59,1%	13,6%	35*
-ESM Saint-Cyr	737	16,7%	30,4%	233	15,0%	41,2%	101	14,9%	50,5%	216*	32	15,6%	56,2%	74*
-Grenoble INP - Génie Industriel	1921	27,5%	22,4%	873	25,2%	23,6%	347	31,4%	25,6%	332*	53	32,1%	32,1%	80*
+ECOLE DE L'AIR Pilote	769	19,0%	27,4%	277	15,5%	32,1%	48	10,4%	64,6%	74	24	8,3%	58,3%	44
+ECOLE DE L'AIR Base	729	20,7%	30,5%	268	17,2%	40,3%	67	11,9%	65,7%	80	3	0,0%	66,7%	6
+ECOLE DE L'AIR Méca	729	20,7%	29,8%	268	17,9%	39,6%	82	18,3%	59,8%	132	10	50,0%	80,0%	13
+EEIGM Nancy - Groupe INP	548	34,1%	22,4%	297	34,7%	19,5%	22	50,0%	22,7%	32	1	0,0%	100,0%	10
+ENSIL-ENSCI Limoges, Matériaux Céramiques	588	31,8%	24,3%	410	30,2%	19,5%	67	41,8%	16,4%	167	9	44,4%	22,2%	45
+ENSGSI Nancy - Groupe INP	1020	32,5%	20,5%	513	31,0%	17,0%	130	40,0%	20,0%	180	22	59,1%	13,6%	35
+ESM Saint-Cyr	737	16,7%	30,4%	233	15,0%	41,2%	101	14,9%	50,5%	216	32	15,6%	56,2%	74
+Grenoble INP - Génie Industriel	1921	27,5%	22,4%	873	25,2%	23,6%	347	31,4%	25,6%	332	53	32,1%	32,1%	80
 #BANQUE EPREUVES C.C.P
 ENSISA Mulhouse Informatique et réseaux										163	9	33,3%	22,2%	8
 ENSISA Mulhouse Mécanique										113	17	23,5%	35,3%	8
@@ -139,98 +139,98 @@ ESTP Paris - Génie Mécanique et Electrique(GME)										1062	29	20,7%	41,4%	3
 ESTP Paris - Travaux Publics (TP)										924	55	18,2%	43,6%	52
 ESTP	1855	25,3%	25,3%	1388	25,8%	27,1%	1289	25,9%	27,2%		161			158
 #CONCOURS POLYTECH Inter-Filière
-ESIPE Créteil - Systèmes d'information										5075*	4	25,0%	50,0%	10*
-ENSIBS Lorient										5060*	6	0,0%	33,3%	12*
-ENSIM Le Mans										4985*	3	33,3%	0,0%	6*
-ESBS Strasbourg										766*	0	0,0%	0,0%	3*
-ESI Reims										4816*	2	100,0%	0,0%	10*
-ESIAB Brest										4062*	0	0,0%	0,0%	3*
-ESIR Rennes										5075*	6	0,0%	16,7%	20*
-ESIREM Dijon										5058*	1	0,0%	0,0%	5*
-ESIROI Saint Denis de La Réunion										5075*	1	0,0%	0,0%	4*
-ESIX Normandie										5033*	1	0,0%	0,0%	5*
-ESSTIN - Polytech Nancy										4967*	10	30,0%	20,0%	20*
-ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										2624*	1	0,0%	0,0%	7*
-ISAT Nevers - département EPEE (Energies et Moteurs)										4191*	5	20,0%	0,0%	14*
-ESIPE Créteil - Génie Biomédial et Santé (ISBS)										4066*	2	0,0%	0,0%	10*
-ISEL Le Havre										5073*	0	0,0%	0,0%	5*
-ISIFC Besançon										3641*	0	0,0%	0,0%	6*
-ISIS Castres										5031*	2	100,0%	50,0%	9*
-ISTIA Angers										5075*	1	0,0%	0,0%	4*
-ISTY Vélizy										4979*	2	50,0%	0,0%	5*
-Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										4753*	5	80,0%	0,0%	15*
-Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										4728*	2	0,0%	50,0%	3*
-Polytech Annecy-Chambéry - Mécanique, Matériaux										4747*	4	0,0%	25,0%	8*
-Polytech Clermont-Ferrand - Génie Biologique										2099*	0	0,0%	0,0%	5*
-Polytech Clermont-Ferrand - Génie Civil										5037*	8	37,5%	37,5%	16*
-Polytech Clermont-Ferrand - Génie Electrique										5003*	3	0,0%	0,0%	5*
-Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										4975*	2	50,0%	50,0%	14*
-Polytech Clermont-Ferrand - Génie Physique										5057*	4	25,0%	50,0%	8*
-Polytech Grenoble - Géotechnique et génie civil										4692*	3	33,3%	66,7%	10*
-Polytech Grenoble - Matériaux										3832*	0	0,0%	0,0%	10*
-Polytech Grenoble - Prévention des risques										5075*	1	100,0%	0,0%	6*
-Polytech Grenoble - Informatique et électronique des systèmes embarqués										4180*	1	0,0%	0,0%	5*
-Polytech Grenoble - Réseaux informatiques										4375*	2	0,0%	0,0%	8*
-Polytech Grenoble - Technologies de l'information pour la santé										5013*	4	25,0%	0,0%	5*
-Polytech Lille - Génie biologique et alimentaire										2457*	0	0,0%	0,0%	4*
-Polytech Lille - Génie Informatique et statistique										4161*	1	0,0%	0,0%	12*
-Polytech Lille - Géotechnique, Génie civil										4547*	7	28,6%	0,0%	10*
-Polytech Lille - Informatique, Microélectronique, Automatique										4085*	1	0,0%	0,0%	8*
-Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										5056*	3	33,3%	33,3%	6*
-Polytech Lille - Matériaux										4698*	0	0,0%	0,0%	8*
-Polytech Lille - Mécanique										3097*	1	0,0%	0,0%	10*
-Polytech Lyon - Génie Bomédical										2424*	0	0,0%	0,0%	6*
-Polytech Lyon - Informatique										2549*	0	0,0%	0,0%	4*
-Polytech Lyon - Matériaux										3123*	0	0,0%	0,0%	4*
-Polytech Lyon - Mathématiques Appliquées et Modélisation										3805*	1	0,0%	100,0%	6*
-Polytech Lyon - Mécanique										2151*	0	0,0%	0,0%	4*
-Polytech Lyon - Systèmes industriels, Robotique										3374*	0	0,0%	0,0%	5*
-Polytech Marseille - Génie Biomédical										3757*	1	0,0%	100,0%	9*
-Polytech Marseille - Génie Civil										4774*	4	50,0%	25,0%	14*
-Polytech Marseille - Génie Industriel et Informatique										5073*	3	66,7%	66,7%	8*
-Polytech Marseille - Informatique										4643*	0	0,0%	0,0%	9*
-Polytech Marseille - Matériaux										4829*	2	0,0%	100,0%	10*
-Polytech Marseille - Mécanique, Energétique										4637*	7	14,3%	28,6%	20*
-Polytech Marseille - Microélectronique,Télécommunications										5063*	5	20,0%	60,0%	8*
-Polytech Montpellier - Microélectronique et Automatique										3685*	2	50,0%	0,0%	5*
-Polytech Montpellier - Informatique et Gestion										4528*	0	0,0%	0,0%	4*
-Polytech Montpellier - Matériaux										2546*	0	0,0%	0,0%	5*
-Polytech Montpellier - Mécanique et Interactions										3947*	1	0,0%	0,0%	2*
-Polytech Montpellier - Sciences et technologies de l'eau										4026*	1	100,0%	100,0%	7*
-Polytech Montpellier Génie biologique et agroalimentaire										2186*	0	0,0%	0,0%	5*
-Polytech Nantes - Électronique et technologies numériques										4550*	5	0,0%	0,0%	8*
-Polytech Nantes - Énergie électrique										4318*	3	0,0%	0,0%	4*
-Polytech Nantes - Génie civil										4221*	2	0,0%	50,0%	7*
-Polytech Nantes - Génie des Procédés et Bioprocédés										2649*	0	0,0%	0,0%	3*
-Polytech Nantes - Informatique										3523*	1	0,0%	0,0%	11*
-Polytech Nantes - Matériaux										4043*	1	0,0%	0,0%	6*
-Polytech Nantes - Thermique, Énergétique										3775*	2	50,0%	50,0%	9*
-Polytech Nice-Sophia - Bâtiments										4881*	4	75,0%	25,0%	12*
-Polytech Nice-Sophia - Électronique										5034*	5	20,0%	20,0%	10*
-Polytech Nice-Sophia - Génie biologique										1487*	0	0,0%	0,0%	3*
-Polytech Nice-Sophia - Génie de l'eau										4907*	3	66,7%	0,0%	9*
-Polytech Nice-Sophia - Informatique										4270*	2	0,0%	0,0%	14*
-Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										4311*	3	66,7%	66,7%	17*
-Polytech Orléans - Écotechnologie électroniques et optiques										5075*	4	25,0%	50,0%	4*
-Polytech Orléans - Génie civil et géo-environnement										5075*	8	37,5%	25,0%	16*
-Polytech Orléans - Génie industriel										5028*	5	40,0%	40,0%	12*
-Polytech Orléans - Innovation en Conception et Matériaux										5054*	4	50,0%	25,0%	8*
-Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4363*	4	0,0%	0,0%	14*
-Polytech Paris-Sud - Electronique, Energie, Systèmes										4407*	1	0,0%	0,0%	6*
-Polytech Paris-Sud - Informatique										2456*	0	0,0%	0,0%	5*
-Polytech Paris-Sud - Photonique et systèmes optroniques										4796*	0	0,0%	0,0%	5*
-Polytech Paris-Sud - Matériaux										4246*	1	0,0%	100,0%	4*
-Polytech Paris-UPMC - Electronique et Informatique										3970*	0	0,0%	0,0%	7*
-Polytech Paris-UPMC - Matériaux										3865*	0	0,0%	0,0%	10*
-Polytech Paris-UPMC - Robotique										4172*	1	0,0%	0,0%	5*
-Polytech Paris-UPMC - Sciences de la Terre										5045*	3	33,3%	66,7%	8*
-Polytech Paris-UPMC Informatique et mathématiques appliquées										3286*	0	0,0%	0,0%	4*
-Polytech Tours - Aménagement et environnement										4622*	0	0,0%	0,0%	8*
-Polytech Tours - Électronique, Énergie électrique										4890*	0	0,0%	0,0%	4*
-Polytech Tours - Informatique										4909*	3	0,0%	33,3%	7*
-Polytech Tours - Mécanique, Conception de systèmes										4069*	3	66,7%	33,3%	5*
-Sup Galilée Villetaneuse										4841*	3	66,7%	0,0%	15*
-ESIPE Créteil - Technologie pour la santé										5075*	0	0,0%	0,0%	5*
+ESIPE Créteil - Systèmes d'information										5075	4	25,0%	50,0%	10
+ENSIBS Lorient										5060	6	0,0%	33,3%	12
+ENSIM Le Mans										4985	3	33,3%	0,0%	6
+ESBS Strasbourg										766	0	0,0%	0,0%	3
+ESI Reims										4816	2	100,0%	0,0%	10
+ESIAB Brest										4062	0	0,0%	0,0%	3
+ESIR Rennes										5075	6	0,0%	16,7%	20
+ESIREM Dijon										5058	1	0,0%	0,0%	5
+ESIROI Saint Denis de La Réunion										5075	1	0,0%	0,0%	4
+ESIX Normandie										5033	1	0,0%	0,0%	5
+ESSTIN - Polytech Nancy										4967	10	30,0%	20,0%	20
+ISAT Nevers - département MIT (Mécanique et Ingénierie des Transports)										2624	1	0,0%	0,0%	7
+ISAT Nevers - département EPEE (Energies et Moteurs)										4191	5	20,0%	0,0%	14
+ESIPE Créteil - Génie Biomédial et Santé (ISBS)										4066	2	0,0%	0,0%	10
+ISEL Le Havre										5073	0	0,0%	0,0%	5
+ISIFC Besançon										3641	0	0,0%	0,0%	6
+ISIS Castres										5031	2	100,0%	50,0%	9
+ISTIA Angers										5075	1	0,0%	0,0%	4
+ISTY Vélizy										4979	2	50,0%	0,0%	5
+Polytech Annecy-Chambéry - Environnement, Bâtiment, Énergie										4753	5	80,0%	0,0%	15
+Polytech Annecy-Chambéry - Instrumentation, Automatique, Informatique										4728	2	0,0%	50,0%	3
+Polytech Annecy-Chambéry - Mécanique, Matériaux										4747	4	0,0%	25,0%	8
+Polytech Clermont-Ferrand - Génie Biologique										2099	0	0,0%	0,0%	5
+Polytech Clermont-Ferrand - Génie Civil										5037	8	37,5%	37,5%	16
+Polytech Clermont-Ferrand - Génie Electrique										5003	3	0,0%	0,0%	5
+Polytech Clermont-Ferrand - Génie Mathématique et Modélisation										4975	2	50,0%	50,0%	14
+Polytech Clermont-Ferrand - Génie Physique										5057	4	25,0%	50,0%	8
+Polytech Grenoble - Géotechnique et génie civil										4692	3	33,3%	66,7%	10
+Polytech Grenoble - Matériaux										3832	0	0,0%	0,0%	10
+Polytech Grenoble - Prévention des risques										5075	1	100,0%	0,0%	6
+Polytech Grenoble - Informatique et électronique des systèmes embarqués										4180	1	0,0%	0,0%	5
+Polytech Grenoble - Réseaux informatiques										4375	2	0,0%	0,0%	8
+Polytech Grenoble - Technologies de l'information pour la santé										5013	4	25,0%	0,0%	5
+Polytech Lille - Génie biologique et alimentaire										2457	0	0,0%	0,0%	4
+Polytech Lille - Génie Informatique et statistique										4161	1	0,0%	0,0%	12
+Polytech Lille - Géotechnique, Génie civil										4547	7	28,6%	0,0%	10
+Polytech Lille - Informatique, Microélectronique, Automatique										4085	1	0,0%	0,0%	8
+Polytech Lille - Ingénierie et commercialisation des systèmes de mesure										5056	3	33,3%	33,3%	6
+Polytech Lille - Matériaux										4698	0	0,0%	0,0%	8
+Polytech Lille - Mécanique										3097	1	0,0%	0,0%	10
+Polytech Lyon - Génie Bomédical										2424	0	0,0%	0,0%	6
+Polytech Lyon - Informatique										2549	0	0,0%	0,0%	4
+Polytech Lyon - Matériaux										3123	0	0,0%	0,0%	4
+Polytech Lyon - Mathématiques Appliquées et Modélisation										3805	1	0,0%	100,0%	6
+Polytech Lyon - Mécanique										2151	0	0,0%	0,0%	4
+Polytech Lyon - Systèmes industriels, Robotique										3374	0	0,0%	0,0%	5
+Polytech Marseille - Génie Biomédical										3757	1	0,0%	100,0%	9
+Polytech Marseille - Génie Civil										4774	4	50,0%	25,0%	14
+Polytech Marseille - Génie Industriel et Informatique										5073	3	66,7%	66,7%	8
+Polytech Marseille - Informatique										4643	0	0,0%	0,0%	9
+Polytech Marseille - Matériaux										4829	2	0,0%	100,0%	10
+Polytech Marseille - Mécanique, Energétique										4637	7	14,3%	28,6%	20
+Polytech Marseille - Microélectronique,Télécommunications										5063	5	20,0%	60,0%	8
+Polytech Montpellier - Microélectronique et Automatique										3685	2	50,0%	0,0%	5
+Polytech Montpellier - Informatique et Gestion										4528	0	0,0%	0,0%	4
+Polytech Montpellier - Matériaux										2546	0	0,0%	0,0%	5
+Polytech Montpellier - Mécanique et Interactions										3947	1	0,0%	0,0%	2
+Polytech Montpellier - Sciences et technologies de l'eau										4026	1	100,0%	100,0%	7
+Polytech Montpellier Génie biologique et agroalimentaire										2186	0	0,0%	0,0%	5
+Polytech Nantes - Électronique et technologies numériques										4550	5	0,0%	0,0%	8
+Polytech Nantes - Énergie électrique										4318	3	0,0%	0,0%	4
+Polytech Nantes - Génie civil										4221	2	0,0%	50,0%	7
+Polytech Nantes - Génie des Procédés et Bioprocédés										2649	0	0,0%	0,0%	3
+Polytech Nantes - Informatique										3523	1	0,0%	0,0%	11
+Polytech Nantes - Matériaux										4043	1	0,0%	0,0%	6
+Polytech Nantes - Thermique, Énergétique										3775	2	50,0%	50,0%	9
+Polytech Nice-Sophia - Bâtiments										4881	4	75,0%	25,0%	12
+Polytech Nice-Sophia - Électronique										5034	5	20,0%	20,0%	10
+Polytech Nice-Sophia - Génie biologique										1487	0	0,0%	0,0%	3
+Polytech Nice-Sophia - Génie de l'eau										4907	3	66,7%	0,0%	9
+Polytech Nice-Sophia - Informatique										4270	2	0,0%	0,0%	14
+Polytech Nice-Sophia - Mathématiques appliquées, Modélisation										4311	3	66,7%	66,7%	17
+Polytech Orléans - Écotechnologie électroniques et optiques										5075	4	25,0%	50,0%	4
+Polytech Orléans - Génie civil et géo-environnement										5075	8	37,5%	25,0%	16
+Polytech Orléans - Génie industriel										5028	5	40,0%	40,0%	12
+Polytech Orléans - Innovation en Conception et Matériaux										5054	4	50,0%	25,0%	8
+Polytech Orléans - Technologies pour l'Énergie, l'Aérospatial et la Motorisation										4363	4	0,0%	0,0%	14
+Polytech Paris-Sud - Electronique, Energie, Systèmes										4407	1	0,0%	0,0%	6
+Polytech Paris-Sud - Informatique										2456	0	0,0%	0,0%	5
+Polytech Paris-Sud - Photonique et systèmes optroniques										4796	0	0,0%	0,0%	5
+Polytech Paris-Sud - Matériaux										4246	1	0,0%	100,0%	4
+Polytech Paris-UPMC - Electronique et Informatique										3970	0	0,0%	0,0%	7
+Polytech Paris-UPMC - Matériaux										3865	0	0,0%	0,0%	10
+Polytech Paris-UPMC - Robotique										4172	1	0,0%	0,0%	5
+Polytech Paris-UPMC - Sciences de la Terre										5045	3	33,3%	66,7%	8
+Polytech Paris-UPMC Informatique et mathématiques appliquées										3286	0	0,0%	0,0%	4
+Polytech Tours - Aménagement et environnement										4622	0	0,0%	0,0%	8
+Polytech Tours - Électronique, Énergie électrique										4890	0	0,0%	0,0%	4
+Polytech Tours - Informatique										4909	3	0,0%	33,3%	7
+Polytech Tours - Mécanique, Conception de systèmes										4069	3	66,7%	33,3%	5
+Sup Galilée Villetaneuse										4841	3	66,7%	0,0%	15
+ESIPE Créteil - Technologie pour la santé										5075	0	0,0%	0,0%	5
 Concours POLYTECH	3138	25,5%	24,1%	2304	25,0%	22,5%	2026	25,4%	23,2%		197			734
 #Autres écoles E3A
 ECE PARIS	1007	23,9%	19,6%	910	23,3%	19,7%	335	23,3%	22,4%	298	48	18,8%	29,2%	40
