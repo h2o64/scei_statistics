@@ -1,7 +1,8 @@
 # -*- coding: latin-1 -*-
 import os
+import sys
 
-year = "2015"
+year = sys.argv[1]
 full_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 half_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 
@@ -73,5 +74,5 @@ def makeCommands(file_path):
 
 
 print table
-makeCommands("mp2015")
+makeCommands("/home/louislycee/Bureau/concours_sql/DB/Concours/mp" + year)
 			
