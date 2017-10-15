@@ -4,10 +4,11 @@ import sys
 
 year = sys.argv[1]
 concours = sys.argv[2]
-command = "INSERT INTO SCEI_MP_" + concours.upper() + "_" + year + "(Ville,Etablissement,Inscrits_nb,Inscrits_filles,Admis_nb,Admis_filles,Classe_nb,Classe_filles,Integres_nb,Integres_filles)\nVALUES(\n"
+filiere = sys.argv[3]
+command = "INSERT INTO SCEI_" + filiere.upper() + "_" + concours.upper() + "_" + year + "(Ville,Etablissement,Inscrits_nb,Inscrits_filles,Admis_nb,Admis_filles,Classe_nb,Classe_filles,Integres_nb,Integres_filles)\nVALUES(\n"
 
 # Table
-table = "CREATE TABLE SCEI_MP_" + concours.upper() + "_" + year + " (\n"\
+table = "CREATE TABLE SCEI_" + filiere.upper() + "_" + concours.upper() + "_" + year + " (\n"\
 "Ville VARCHAR(100),\n"\
 "Etablissement VARCHAR(100),\n"\
 "Inscrits_nb INTEGER,\n"\

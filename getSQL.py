@@ -3,11 +3,12 @@ import os
 import sys
 
 year = sys.argv[1]
-full_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
-half_line = "INSERT INTO SCEI_MP_" + year + "(Concours,Ecole,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
+filiere = sys.argv[2]
+full_line = "INSERT INTO SCEI_" + filiere.upper() + "_" + year + "(Concours,Ecole,Inscrits_nb,Inscrits_filles,Inscrits_khube,Admis_nb,Admis_filles,Admis_khube,Classe_nb,Classe_filles,Classe_khube,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
+half_line = "INSERT INTO SCEI_" + filiere.upper() + "_" + year + "(Concours,Ecole,Rang_du_dernier,Integres_nb,Integres_filles,Integres_khube,Places)\nVALUES(\n"
 
 # Table
-table = "CREATE TABLE SCEI_MP_" + year + " (\n"\
+table = "CREATE TABLE SCEI_" + filiere.upper() + "_" + year + " (\n"\
 "Concours VARCHAR(100),\n"\
 "Ecole VARCHAR(100),\n"\
 "Inscrits_nb INTEGER,\n"\
